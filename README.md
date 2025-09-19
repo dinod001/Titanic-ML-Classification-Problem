@@ -57,6 +57,3 @@ The models were evaluated using metrics such as **Accuracy, F1 Score, and AUC** 
 
 pip install -r requirements.txt
 
-
-pip install -r requirements.txt
-
